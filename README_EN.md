@@ -24,7 +24,7 @@ Free · No sign-up · Portable · English / 中文
 <p align="center"><img src="docs/screenshot_en.png" alt="iOS Manager installing an IPA on several iPhones at once" width="820"></p>
 
 -->
-
+<p align="center"><img src="docs/screenshot_en.png" alt="iOS Manager installing an IPA on several iPhones at once" width="820"></p>
 ---
 
 ## Features
