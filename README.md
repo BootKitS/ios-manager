@@ -25,7 +25,7 @@
 
 <p align="center"><img src="docs/screenshot_zh.png" alt="iOS 设备管理工具主界面：多台 iPhone 批量安装 IPA" width="820"></p>
 -->
-
+<p align="center"><img src="docs/screenshot_zh.png" alt="iOS 设备管理工具主界面：多台 iPhone 批量安装 IPA" width="820"></p>
 ---
 
 ## 它能做什么
